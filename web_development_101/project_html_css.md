@@ -980,6 +980,7 @@ Add your solution below this line!
 * [Highflyer's solution(easy)](https://github.com/highflyer910/Google_challenge) | [view in browser](https://highflyer910.github.io/Google_challenge/)
 * [Daunenok's solution (Easy)](https://github.com/daunenok/google-homepage) | [View in browser](https://daunenok.github.io/google-homepage/)
 * [Daunenok's solution (Difficult)](https://github.com/daunenok/google-search-page) | [view in browser](https://daunenok.github.io/google-search-page/)
+* [Ronald Muwonge's Solution (Difficult)](https://github.com/ssedumeone/google-search-page) | [view in browser](https://ssedumeone.github.io/google-search-page/)
 
 ## Additional Resources
 
